@@ -1,2 +1,28 @@
-# Netflix-Clone
-1) Developed a responsive Netflix Clone using HTML and CSS, replicating the Netflix homepage UI. 2) Implemented a modern layout with a navigation bar, hero banner, movie sections, and footer.                         3) Optimized the design for desktop and mobile devices using responsive CSS.
+# Netflix Clone
+
+## Overview
+This is a responsive Netflix Clone developed using HTML and CSS. The project replicates the Netflix homepage with a modern and user-friendly interface.
+
+## Features
+- Responsive design
+- Navigation bar
+- Hero banner
+- Movie sections
+- Footer
+- Clean and modern UI
+
+## Technologies Used
+- HTML5
+- CSS3
+
+## Project Structure
+```
+Netflix-Clone/
+│── index.html
+│── style.css
+└── README.md
+```
+
+## Author
+**Shaik Mahaboob Basha**
+GitHub: https://github.com/Mahaboob44
